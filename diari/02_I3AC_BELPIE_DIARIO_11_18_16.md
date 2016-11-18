@@ -6,6 +6,7 @@ Trevano
 ## LAVORI SVOLTI
 10.05 - 14.00
 Presentazioni progetto case/holder
+<br>
 Restituzione e correzione del test
 
 14.00 - 15.45
